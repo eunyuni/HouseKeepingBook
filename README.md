@@ -82,7 +82,7 @@
 
 
 
-* 버튼클릭시 UI변경사항 UIView에 확장하여 함수로 사용
+* 버튼클릭시 효과를 주기위하여 그림자효과를 추가했지만, 재사용하기에 코드가 반복되어 extension으로 확장
 
 ```swift
 extension UIView {
